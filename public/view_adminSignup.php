@@ -28,7 +28,7 @@ if (isset($_POST['action_type']) && $_POST['action_type']) {  // $_POST['action_
         <input type="text" name="company_name" required /><br>
 
         <label for="admin_name">管理者名:</label>
-        <input type="text" name="user_name" required /><br>
+        <input type="text" name="admin_name" required /><br>
 
         <label for="password">パスワード:</label>
         <input type="password" name="password" required /><br>

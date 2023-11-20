@@ -1,4 +1,5 @@
 <?php
+// db_connect.php
 try {
   $dbHost = getenv('DB_HOST');
   $dbPort = getenv('DB_PORT');

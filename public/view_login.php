@@ -14,6 +14,6 @@
         <input type="password" name="password" required /><br>
 
         <input type="hidden" name="action_type" value="adminSignup" />
-        <button type="submit" class="input-submit-button">管理者アカウントを作成</button>        
+        <button type="submit" class="input-submit-button">ログイン</button>        
     </form>
 </body>
