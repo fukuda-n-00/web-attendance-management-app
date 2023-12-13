@@ -1,5 +1,5 @@
 # web-attendance-management-app
-勤怠管理アプリ
+勤怠管理アプリ（個人開発中）
 
 ## 開発資料
 進捗や設計を毎回README.mdに載せると"Update README.md"でブランチ履歴が埋まっちゃうので以下を使うことにした<br>
